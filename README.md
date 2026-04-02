@@ -1,8 +1,8 @@
 <div align="center">
 
-# 🏭 neet-to-prod
+# 🏭 neet-or-yeet
 
-### **From NeetCode to Production — DSA through the lens of real systems**
+### **NeetCode Solutions — DSA through the lens of real systems**
 
 [![Progress](https://img.shields.io/badge/Progress-0%2F150-blue?style=for-the-badge)]()
 [![Java](https://img.shields.io/badge/Java-17+-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)]()
@@ -27,33 +27,6 @@ Every solution here includes:
 
 ---
 
-## 📊 Progress Tracker
-
-| # | Category | Problems | Done | Status |
-|---|----------|----------|------|--------|
-| 1 | [Arrays & Hashing](./01-arrays-and-hashing/) | 9 | 0 | 🔲 |
-| 2 | [Two Pointers](./02-two-pointers/) | 5 | 0 | 🔲 |
-| 3 | [Sliding Window](./03-sliding-window/) | 6 | 0 | 🔲 |
-| 4 | [Stack](./04-stack/) | 7 | 0 | 🔲 |
-| 5 | [Binary Search](./05-binary-search/) | 7 | 0 | 🔲 |
-| 6 | [Linked List](./06-linked-list/) | 11 | 0 | 🔲 |
-| 7 | [Trees](./07-trees/) | 15 | 0 | 🔲 |
-| 8 | [Heap / Priority Queue](./08-heap-priority-queue/) | 7 | 0 | 🔲 |
-| 9 | [Backtracking](./09-backtracking/) | 9 | 0 | 🔲 |
-| 10 | [Tries](./10-tries/) | 3 | 0 | 🔲 |
-| 11 | [Graphs](./11-graphs/) | 13 | 0 | 🔲 |
-| 12 | [Advanced Graphs](./12-advanced-graphs/) | 6 | 0 | 🔲 |
-| 13 | [1-D Dynamic Programming](./13-1d-dynamic-programming/) | 12 | 0 | 🔲 |
-| 14 | [2-D Dynamic Programming](./14-2d-dynamic-programming/) | 11 | 0 | 🔲 |
-| 15 | [Greedy](./15-greedy/) | 8 | 0 | 🔲 |
-| 16 | [Intervals](./16-intervals/) | 6 | 0 | 🔲 |
-| 17 | [Math & Geometry](./17-math-and-geometry/) | 8 | 0 | 🔲 |
-| 18 | [Bit Manipulation](./18-bit-manipulation/) | 7 | 0 | 🔲 |
-
-**Total: 0 / 150** 🚀
-
----
-
 ## 🔨 → ⚡ → 🏆 The Approach Ladder
 
 Every solution walks through the full evolution of thinking:
@@ -62,18 +35,15 @@ Every solution walks through the full evolution of thinking:
 ┌─────────────────────────────────────────────────────┐
 │  🔨 BRUTE FORCE                                     │
 │  The naive approach. Usually nested loops or         │
-│  exhaustive search. Correct but slow.                │
-│  Time: O(n²)  Space: O(1)                           │
+│  exhaustive search. Correct but slow.                │        
 ├─────────────────────────────────────────────────────┤
 │  ⚡ OPTIMIZED                                        │
 │  Key insight applied. Trading space for time,        │
 │  or using a smarter data structure.                  │
-│  Time: O(n log n)  Space: O(n)                      │
 ├─────────────────────────────────────────────────────┤
 │  🏆 BEST / OPTIMAL                                  │
 │  The interview-ready solution. Clean, efficient,     │
 │  handles all edge cases.                             │
-│  Time: O(n)  Space: O(n)                            │
 └─────────────────────────────────────────────────────┘
 ```
 
@@ -151,21 +121,6 @@ cd neet-to-prod
 javac 01-arrays-and-hashing/003-TwoSum.java
 java -cp 01-arrays-and-hashing TwoSum
 ```
-
----
-
-## 🎯 Study Plan
-
-| Week | Focus | Problems |
-|------|-------|----------|
-| 1 | Arrays & Hashing, Two Pointers | 14 |
-| 2 | Sliding Window, Stack | 13 |
-| 3 | Binary Search, Linked List | 18 |
-| 4 | Trees | 15 |
-| 5 | Heap, Backtracking, Tries | 19 |
-| 6 | Graphs, Advanced Graphs | 19 |
-| 7 | 1-D DP, 2-D DP | 23 |
-| 8 | Greedy, Intervals, Math, Bits | 29 |
 
 ---
 
